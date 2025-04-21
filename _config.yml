@@ -22,7 +22,7 @@ repository               : "yunnivivian/yunnivivian.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Avator.png"
   name             : "Yumeng He"
   pronouns         : "she/her"  
   bio              : "I'm a third undergraduate student from Sichuan University."
